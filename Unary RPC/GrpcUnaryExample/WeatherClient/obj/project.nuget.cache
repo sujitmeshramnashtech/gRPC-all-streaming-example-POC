@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EueDyg8yZ4s=",
+  "success": true,
+  "projectFilePath": "/home/nashtech/Nashtech Sujit/Nashtech Blogs/June Blogs/gRPC/code/gRPC-all-streaming-example-POC/Unary RPC/GrpcUnaryExample/WeatherClient/WeatherClient.csproj",
+  "expectedPackageFiles": [
+    "/home/nashtech/.nuget/packages/google.protobuf/3.27.2/google.protobuf.3.27.2.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/grpc.core.api/2.63.0/grpc.core.api.2.63.0.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/grpc.net.client/2.63.0/grpc.net.client.2.63.0.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/grpc.net.common/2.63.0/grpc.net.common.2.63.0.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/grpc.tools/2.64.0/grpc.tools.2.64.0.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

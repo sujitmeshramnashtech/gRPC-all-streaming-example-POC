@@ -1,0 +1,18 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcServerStreamingExample";
+
+service Weather {
+  rpc GetWeatherUpdates(WeatherRequest) returns (stream WeatherResponse);
+}
+
+message WeatherRequest {
+  string city = 1;
+}
+
+message WeatherResponse {
+  string city = 1;
+  string description = 2;
+  int32 temperature = 3;
+  string timestamp = 4;
+}

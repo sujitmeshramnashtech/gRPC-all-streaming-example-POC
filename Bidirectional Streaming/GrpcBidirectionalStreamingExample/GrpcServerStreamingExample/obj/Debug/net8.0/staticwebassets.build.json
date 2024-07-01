@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OIhTORmQOKtnaFKZtHiBASG+Z3IQUwb68GRHJZzk04k=",
+  "Source": "GrpcBidirectionalStreamingExample",
+  "BasePath": "_content/GrpcBidirectionalStreamingExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|e:\\nashtech\\blogs\\june blogs\\grpc\\bidirectional streaming\\grpcbidirectionalstreamingexample\\grpcserverstreamingexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|solutionrelative:grpcserverstreamingexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|e:\\nashtech\\blogs\\june blogs\\grpc\\bidirectional streaming\\grpcbidirectionalstreamingexample\\grpcserverstreamingexample\\grpcbidirectionalstreamingexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|solutionrelative:grpcserverstreamingexample\\grpcbidirectionalstreamingexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7659F7E4-7C98-45F5-A8B7-00B514681E6A}|WeatherClient\\WeatherClient.csproj|e:\\nashtech\\blogs\\june blogs\\grpc\\bidirectional streaming\\grpcbidirectionalstreamingexample\\weatherclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7659F7E4-7C98-45F5-A8B7-00B514681E6A}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|e:\\nashtech\\blogs\\june blogs\\grpc\\bidirectional streaming\\grpcbidirectionalstreamingexample\\grpcserverstreamingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|solutionrelative:grpcserverstreamingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7659F7E4-7C98-45F5-A8B7-00B514681E6A}|WeatherClient\\WeatherClient.csproj|e:\\nashtech\\blogs\\june blogs\\grpc\\bidirectional streaming\\grpcbidirectionalstreamingexample\\weatherclient\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7659F7E4-7C98-45F5-A8B7-00B514681E6A}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|e:\\nashtech\\blogs\\june blogs\\grpc\\bidirectional streaming\\grpcbidirectionalstreamingexample\\grpcserverstreamingexample\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|solutionrelative:grpcserverstreamingexample\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|e:\\nashtech\\blogs\\june blogs\\grpc\\bidirectional streaming\\grpcbidirectionalstreamingexample\\grpcserverstreamingexample\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371AA6B4-3554-4D70-8F93-15E22764552A}|GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj|solutionrelative:grpcserverstreamingexample\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcServerStreamingExample\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcServerStreamingExample\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T09:44:21.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrpcBidirectionalStreamingExample",
+              "DocumentMoniker": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj",
+              "RelativeDocumentMoniker": "GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj",
+              "ToolTip": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj",
+              "RelativeToolTip": "GrpcServerStreamingExample\\GrpcBidirectionalStreamingExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T09:44:18.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcServerStreamingExample\\Program.cs",
+              "ToolTip": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\Program.cs",
+              "RelativeToolTip": "GrpcServerStreamingExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:43:19.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "weather.proto",
+              "DocumentMoniker": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\WeatherClient\\weather.proto",
+              "RelativeDocumentMoniker": "WeatherClient\\weather.proto",
+              "ToolTip": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\WeatherClient\\weather.proto",
+              "RelativeToolTip": "WeatherClient\\weather.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-07-01T09:42:37.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\WeatherClient\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Program.cs",
+              "ToolTip": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\WeatherClient\\Program.cs",
+              "RelativeToolTip": "WeatherClient\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:41:10.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "GrpcServerStreamingExample\\Services\\WeatherService.cs",
+              "ToolTip": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\Services\\WeatherService.cs",
+              "RelativeToolTip": "GrpcServerStreamingExample\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:40:20.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "weather.proto",
+              "DocumentMoniker": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\Protos\\weather.proto",
+              "RelativeDocumentMoniker": "GrpcServerStreamingExample\\Protos\\weather.proto",
+              "ToolTip": "E:\\Nashtech\\Blogs\\June Blogs\\gRPC\\Bidirectional Streaming\\GrpcBidirectionalStreamingExample\\GrpcServerStreamingExample\\Protos\\weather.proto",
+              "RelativeToolTip": "GrpcServerStreamingExample\\Protos\\weather.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-07-01T09:39:43.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

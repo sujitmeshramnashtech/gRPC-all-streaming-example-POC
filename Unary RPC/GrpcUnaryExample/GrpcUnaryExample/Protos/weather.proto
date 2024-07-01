@@ -1,0 +1,17 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcUnaryExample";
+
+service Weather {
+  rpc GetWeather(WeatherRequest) returns (WeatherResponse);
+}
+
+message WeatherRequest {
+  string city = 1;
+}
+
+message WeatherResponse {
+  string city = 1;
+  float temperature = 2;
+  string timestamp = 3;
+}
